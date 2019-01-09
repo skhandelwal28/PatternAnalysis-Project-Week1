@@ -1,0 +1,49 @@
+25071:Restaurants
+10281:Shopping
+9249:Food
+5088:	Nightlife
+6490:	Beauty & Spas
+4328:	Bars
+5120:	Health & Medical
+4784:	Home Services
+4208:	Automotive
+3467:	Local Services
+3100:	Active Life
+2974:	Event Planning & Services
+2416:	American (Traditional)
+2851:	Fast Food
+2126:	Fashion
+2364:	Sandwiches
+2495:	Hotels & Travel
+2271:	Arts & Entertainment
+2657:	Pizza
+2198:	Coffee & Tea
+2515:	Mexican
+1576:	Home & Garden
+2089:	Hair Salons
+1593:	American (New)
+1694:	Doctors
+1774:	Burgers
+1439:	Fitness & Instruction
+1848:	Italian
+1716:	Auto Repair
+1431:	Hotels
+1369:	Breakfast & Brunch
+1424:	Real Estate
+1149:	Specialty Food
+1496:	Pets
+1424:	Grocery
+1663:	Nail Salons
+1195:	Dentists
+1629:	Chinese
+818:	Sports Bars
+1025:	Professional Services
+874:	Pubs
+1115:	Bakeries
+1002:	Cafes
+870:	Pet Services
+823:	General Dentistry
+1018:	Ice Cream & Frozen Yogurt
+848:	Japanese
+798:	Sushi Bars
+875:	Financial Services
